@@ -5,9 +5,12 @@
 React JS is a component based Javascript library that attempts to solve the problems of scaling interactive web elements across large scale web applications.  It attempts to bridge the separation of concerns by placing HTML/XML content within the scope of Javascript using JSX.
 
 1. What does it mean to think in react?
+To think in react is to modify one's behavior from being condition of thinking in terms of separating concerns by placing content in one file and styling in another to interactive elements in another to including them into file to serve one specific purpose.
 
 
 3. Describe state.
+
+State is the value or condition of a variable, component, or page at a given moment.
 
 
 4. Describe props.

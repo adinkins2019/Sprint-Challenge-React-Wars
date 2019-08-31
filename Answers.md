@@ -7,9 +7,11 @@ React JS is a component based Javascript library that attempts to solve the prob
 1. What does it mean to think in react?
 
 
-1. Describe state.
+3. Describe state.
+
 
 4. Describe props.
 Props is an object that consists of the arguments of a component that are being passed from a Parent component to a child component
 
-1. What are side effects, and how do you sync effects in a React component to state or prop changes?
+5. What are side effects, and how do you sync effects in a React component to state or prop changes?
+A side effect is an unintended consequence or action that results from a function call, such as a memory leak, or infinite loop. By the using the useEffect hook, we can sync the state or prop changes in a React component
